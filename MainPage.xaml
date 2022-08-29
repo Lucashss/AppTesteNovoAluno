@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppTesteNovoAluno.MainPage">
+
+    <StackLayout BackgroundColor="Black">
+        <Frame BackgroundColor="Black" Padding="24" CornerRadius="0">
+            <Label Text="Aplicação Teste" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Entry x:Name="id"
+               Placeholder="Digite o ID"
+               BackgroundColor="WhiteSmoke"
+               TextChanged="OnEntryTextChanged"
+               Completed="OnEntryCompleted"/>
+        <Entry x:Name="pass"
+               Placeholder="Digite a senha"
+               BackgroundColor="WhiteSmoke"
+               MaxLength="15"
+               IsSpellCheckEnabled="False"
+               IsTextPredictionEnabled="False"
+               IsPassword="True"/>
+        <Button Text="OK" Clicked="Button_Clicked"/>
+        <Button Text="Limpar" Clicked="Button_Clicked_1" />
+        <Button Text="Créditos" Clicked="Button_Clicked_2"/>
+
+    </StackLayout>
+
+</ContentPage>

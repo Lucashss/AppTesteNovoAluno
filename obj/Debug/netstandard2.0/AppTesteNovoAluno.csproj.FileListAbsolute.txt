@@ -1,0 +1,15 @@
+C:\Users\Nikolas Caldeira\Documents\xamarim\AppTesteNovoAluno\AppTesteNovoAluno\AppTesteNovoAluno\bin\Debug\netstandard2.0\AppTesteNovoAluno.deps.json
+C:\Users\Nikolas Caldeira\Documents\xamarim\AppTesteNovoAluno\AppTesteNovoAluno\AppTesteNovoAluno\bin\Debug\netstandard2.0\AppTesteNovoAluno.dll
+C:\Users\Nikolas Caldeira\Documents\xamarim\AppTesteNovoAluno\AppTesteNovoAluno\AppTesteNovoAluno\bin\Debug\netstandard2.0\ref\AppTesteNovoAluno.dll
+C:\Users\Nikolas Caldeira\Documents\xamarim\AppTesteNovoAluno\AppTesteNovoAluno\AppTesteNovoAluno\bin\Debug\netstandard2.0\AppTesteNovoAluno.pdb
+C:\Users\Nikolas Caldeira\Documents\xamarim\AppTesteNovoAluno\AppTesteNovoAluno\AppTesteNovoAluno\obj\Debug\netstandard2.0\AppTesteNovoAluno.csproj.AssemblyReference.cache
+C:\Users\Nikolas Caldeira\Documents\xamarim\AppTesteNovoAluno\AppTesteNovoAluno\AppTesteNovoAluno\obj\Debug\netstandard2.0\AppTesteNovoAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolas Caldeira\Documents\xamarim\AppTesteNovoAluno\AppTesteNovoAluno\AppTesteNovoAluno\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nikolas Caldeira\Documents\xamarim\AppTesteNovoAluno\AppTesteNovoAluno\AppTesteNovoAluno\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nikolas Caldeira\Documents\xamarim\AppTesteNovoAluno\AppTesteNovoAluno\AppTesteNovoAluno\obj\Debug\netstandard2.0\AppTesteNovoAluno.AssemblyInfoInputs.cache
+C:\Users\Nikolas Caldeira\Documents\xamarim\AppTesteNovoAluno\AppTesteNovoAluno\AppTesteNovoAluno\obj\Debug\netstandard2.0\AppTesteNovoAluno.AssemblyInfo.cs
+C:\Users\Nikolas Caldeira\Documents\xamarim\AppTesteNovoAluno\AppTesteNovoAluno\AppTesteNovoAluno\obj\Debug\netstandard2.0\AppTesteNovoAluno.csproj.CoreCompileInputs.cache
+C:\Users\Nikolas Caldeira\Documents\xamarim\AppTesteNovoAluno\AppTesteNovoAluno\AppTesteNovoAluno\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nikolas Caldeira\Documents\xamarim\AppTesteNovoAluno\AppTesteNovoAluno\AppTesteNovoAluno\obj\Debug\netstandard2.0\AppTesteNovoAluno.dll
+C:\Users\Nikolas Caldeira\Documents\xamarim\AppTesteNovoAluno\AppTesteNovoAluno\AppTesteNovoAluno\obj\Debug\netstandard2.0\ref\AppTesteNovoAluno.dll
+C:\Users\Nikolas Caldeira\Documents\xamarim\AppTesteNovoAluno\AppTesteNovoAluno\AppTesteNovoAluno\obj\Debug\netstandard2.0\AppTesteNovoAluno.pdb
